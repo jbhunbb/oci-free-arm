@@ -7,8 +7,8 @@ Oracle Cloud Infra에서 제공 중인 Freetier 환경인 ARM CPU 4 Core, RAM 24
 위와 같은 메시지가 발생함  
   
   
-해당 가용영역에 ARM CPU Host 가 부족해서 발생하는 에러메시지이고, 언제 추가될지 모르기 때문에  
-30초마다 생성을 시도하는 스크립트 생성함
+해당 가용영역에 ARM CPU Host 가 부족해서 발생하는 에러메시지이며,  
+언제 추가될지 모르기 때문에 30초마다 생성을 시도하는 스크립트 생성함
   
 ## How To Running  
 1. API Key 다운로드
