@@ -2,7 +2,7 @@
 
 ## APPENDIX
   
-Oracle Cloud Infra에서 제공중인 Freetier 환경인 ARM CPU 4 Core, RAM 24GB 성능의 OS 생성 중  
+Oracle Cloud Infra에서 제공중인 Freetier 환경인 ARM CPU 4 Core, RAM 24GB 성능의 인스턴스 생성 중  
 ```Out of capacity for shape VM.Standard.A1.Flex in availability domain AD-1. Create the instance in a different availability domain or try again later. If you specified a fault domain, try creating the instance without specifying a fault domain. If that doesn’t work, please try again later. Learn more about host capacity.```  
 위와 같은 메시지가 발생함  
   
