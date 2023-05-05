@@ -13,7 +13,7 @@ Oracle Cloud Infra에서 제공 중인 Freetier 환경인 ARM CPU 4 Core, RAM 24
 ## How To Running  
 1. API Key 다운로드
     1. 로그인 후 우측 상단 Profile 클릭
-    2. 좌측 Resource 하단 API Keys 탭 클릭
+    2. 좌측 Resource 하단 API Keys TAB 클릭
     3. Add API Key 클릭 후 private key, public key 다운로드
     4. Add 버튼 클릭 및 Configuration File 복사 해두기
     
